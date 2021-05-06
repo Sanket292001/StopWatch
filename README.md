@@ -1,2 +1,3 @@
 # StopWatch
-StopWatch using HTML, CSS and JavaScript
+
+<image src="https://raw.githubusercontent.com/Sanket292001/StopWatch/main/StopWatch.gif" />
